@@ -13,18 +13,18 @@
             "version": "12.11",
             "os_patch_level": "2026-08-01",
             "os_sdk_level": 36,
-            "buildtype": "",
-            "forum": "",
-            "gapps": "",
+            "buildtype": "Monthly",
+            "forum": "https://xdaforums.com/t/rom-16-0-official-pong-crdroid-v12-11.4796531/",
+            "gapps": "https://nikgapps.com/crdroid-official",
             "firmware": "",
             "modem": "",
             "bootloader": "",
             "recovery": "",
             "paypal": "",
-            "telegram": "@limitededition1998",
-            "dt": "",
+            "telegram": "https://t.me/ediwqchat",
+            "dt": "https://github.com/crdroidandroid/android_device_nothing_Pong",
             "common-dt": "",
-            "kernel": ""
+            "kernel": "https://github.com/crdroidandroid/android_kernel_nothing_sm8475/tree/16.0"
         }
     ]
 }
