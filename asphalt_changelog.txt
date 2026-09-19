@@ -1,0 +1,190 @@
+====================
+     09-04-2026
+====================
+
+   * vendor/lenovo/asphalt
+c325bce asphalt: commonized pinned display stacks for now
+
+   * vendor/lenovo/sm8475-common
+0dd8191 sm8475-common: commonized display stacks for now
+
+====================
+     09-03-2026
+====================
+
+   * device/lenovo/sm8475-common
+ed79d78 sm8475-common: update init from LA.VENDOR.15.4.5.r1-06400-WAIPIO.QISI17.0
+
+   * kernel/lenovo/sm8475
+9b7833ce5 UPSTREAM: selinux: enable genfscon labeling for securityfs
+
+   * kernel/lenovo/sm8475-modules
+0ba8898 camera-kernel: restore old changes for packet_util
+
+====================
+     09-02-2026
+====================
+
+   * packages/apps/Aperture
+cf1bc0a Automatic translation import
+
+   * packages/apps/Catapult
+6cc4b6c Automatic translation import
+
+   * packages/apps/DeskClock
+e7fd65ec8 Automatic translation import
+
+   * packages/apps/FMRadio
+9382971 Automatic translation import
+
+   * packages/apps/Glimpse
+73cd3ff Automatic translation import
+
+   * packages/apps/Jelly
+56c6868 Automatic translation import
+
+   * packages/apps/Recorder
+5db611b Automatic translation import
+
+   * packages/apps/Twelve
+33e8189 Automatic translation import
+
+   * packages/providers/DownloadProvider
+04ebaead Automatic translation import
+
+   * packages/resources/devicesettings
+e91c799 Automatic translation import
+
+   * vendor/crowdin
+e3a7f38 Automatic translation import
+
+   * vendor/qcom/opensource/commonsys/fm
+24cfb5f Automatic translation import
+
+====================
+     09-01-2026
+====================
+
+   * build/soong
+39115850c Merge remote-tracking branch 'lineage-23.2' into 16.0
+
+   * lineage/mirror
+b7e5d79 Updated to 31-Aug-2026 06:02 UTC
+
+====================
+     08-31-2026
+====================
+
+   * build/soong
+9aa045a2a Allow prebuilt_first_stage_ramdisk to be used
+
+   * lineage/mirror
+4b8ab81 Updated lineage-minimal to 30-Aug-2026 06:02 UTC
+
+   * vendor/lineage
+e85deff2 crdroid: Do not clone weather app
+
+====================
+     08-30-2026
+====================
+
+   * lineage/hudson
+575b214 Promote nx659j to 23.2
+a10e2bb hudson: Ship AYN Odin2 Portal
+
+   * lineage/wiki
+184e3aeb wiki: Promote nx659j to 23.2
+bff52dcb wiki: Add AYN Odin2 Portal
+
+====================
+     08-29-2026
+====================
+
+   * lineage/scripts
+84a3bb9 build-webview: Update default webview to 152.0.7977.64
+
+   * packages/apps/Catapult
+5427e9c Catapult: Add a battery icon
+
+   * vendor/apn
+e003409 FR: Update APN for Free Mobile
+c734664 FR: Update APN for Orange
+a57664f FR: Update APN for Bouygues Telecom
+
+====================
+     08-28-2026
+====================
+
+   * bionic
+27e022d09 Fix bad free when limit exceeded.
+
+   * external/chromium-webview/patches
+209a6d2 Update Chromium Webview to 152.0.7977.64
+
+   * external/chromium-webview/prebuilt/arm
+80e8063 Update Chromium Webview arm to 152.0.7977.64
+
+   * external/chromium-webview/prebuilt/arm64
+a6b2364 Update Chromium Webview arm64 to 152.0.7977.64
+
+   * external/chromium-webview/prebuilt/x86
+58479e5 Update Chromium Webview x86 to 152.0.7977.64
+
+   * external/chromium-webview/prebuilt/x86_64
+2767453 Update Chromium Webview x86_64 to 152.0.7977.64
+
+   * lineage/wiki
+be3a74c8 wiki: Switch to lineage-next samloader-rs fork
+
+   * packages/apps/Launcher3
+25dcdc6934 Merge pull request #556 from pbzin/fix-fullscreen-all-apps-colors
+
+   * vendor/apn
+eae6025 PL: Remove Aster
+dae435a PL: Remove Mobilking and MNI Mobile
+6f1162e PL: Remove Era & Tak-Tak
+c40ee06 PL: Remove mBank Mobile
+37974c6 PL: Remove PlusWAP
+874c462 PL: Remove GaduAIR
+5355f6b PL: Remove Carrefour Mova
+
+====================
+     08-27-2026
+====================
+
+   * lineage/hudson
+2f2041a Regenerate device dependency mappings
+87b0039 Why do OEMs ship different wifi/bt chipset revisions?
+
+   * lineage/mirror
+05ea509 Updated to 26-Aug-2026 06:01 UTC
+
+   * lineage/wiki
+80b0b9fd devices: nicepool: Use loaded module, not property to discern chipset
+1caa50f8 devices: Split nicepool into nicepool/nicepool_rtk
+
+   * packages/apps/Launcher3
+81317f2cd7 Launcher3: Fix all apps drawer colors and contrast
+cc2f2d43b8 Launcher3: Improve fullscreen app drawer colors
+
+====================
+     08-26-2026
+====================
+
+   * device/lineage/atv
+3b194c2 Drop forced scaling handling
+
+   * lineage/hudson
+ca773f4 ohhhhhm ohmmmmmmmmmmmmmmm
+b10c864 Sort manaus correctly
+
+   * lineage/scripts
+1ca91ee motorola: Update info script for more accurate results
+
+   * lineage/wiki
+8b347b9e devices: Add DroidLogic NE S905X4 Devkits + ADT-4 (ohm) | 23.2
+11b12eba test: Remove unused schema and sort
+
+   * packages/apps/Twelve
+cfeeefa Twelve: Update media3 to 1.10.0
+
