@@ -4,17 +4,17 @@
             "maintainer": "Soyab",
             "oem": "lenovo",
             "device": "asphalt",
-            "filename": "crDroidAndroid-16.0-20260903-asphalt-v12.11.zip",
-            "download": "https://sourceforge.net/projects/roms101/files/release/crDroidAndroid-16.0-20260903-asphalt-v12.11.zip/download",
+            "filename": "crDroidAndroid-16.0-20260920-asphalt-v12.12.zip",
+            "download": "https://sourceforge.net/projects/roms101/files/release/crDroidAndroid-16.0-20260920-asphalt-v12.12.zip/download",
             "timestamp": 1789889532,
-            "md5": "0b7392c50b374f6d5522a6cf7cf6daf5",
-            "sha256": "302329b5673c6812f2d843530a6eb797b263f174dbccd4ddd50778f85ba7af69",
-            "size": 1316888377,
-            "version": "12.11",
-            "os_patch_level": "2026-08-01",
+            "md5": "6047bceecf9cf09b3b85e9b3990f106a",
+            "sha256": "f42fcbc09abc6c1115b7e61765cfe11718fde86323067ccea58515360c33b4cd",
+            "size": 1318371202,
+            "version": "12.12",
+            "os_patch_level": "2026-09-01",
             "os_sdk_level": 36,
             "buildtype": "Monthly",
-            "forum": "https://xdaforums.com/t/rdroid-v12-11.4796/531/",
+            "forum": "https://xdaforums.com/t/gen-2-asphalt-crdroid-12-12-a16-unofficial-vanilla.4802307/",
             "gapps": "https://nikgapps.com/crdroid-official",
             "firmware": "",
             "modem": "",
@@ -22,9 +22,9 @@
             "recovery": "",
             "paypal": "",
             "telegram": "https://t.me/dumpyardc",
-            "dt": "https://github.com/crdroidandroid",
+            "dt": "https://github.com/lolipuru/android_device_lenovo_asphalt/",
             "common-dt": "",
-            "kernel": "https://github.com/crdroidandroid/"
+            "kernel": "https://github.com/lolipuru/kernel_lenovo_sm8475"
         }
     ]
 }
